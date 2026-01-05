@@ -1,0 +1,13 @@
+﻿# ===== FRONTEND =====
+frontend/node_modules
+frontend/dist
+
+# ===== BACKEND =====
+backend/target
+
+# ===== IDE =====
+.idea
+.vscode
+
+# ===== OS =====
+.DS_Store
